@@ -1,5 +1,10 @@
 # react-native-simple-stepper
 
+Reference taken from
+
+`react-native-simple-stepper
+`
+
 [![Platform](https://img.shields.io/badge/platform-react--native-lightgrey.svg)](http://facebook.github.io/react-native/)
 [![npm version](http://img.shields.io/npm/v/react-native-simple-stepper.svg)](https://www.npmjs.com/package/react-native-simple-stepper)
 [![npm version](http://img.shields.io/npm/dm/react-native-simple-stepper.svg)](https://www.npmjs.com/package/react-native-simple-stepper)
@@ -14,6 +19,10 @@ A super simple react-native implementation of the [UIStepper](https://developer.
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Props](#props)
+
+### Demo
+[screenshot] [screenshots/Screenshot 2019-08-31 at 10.12.54 PM.png]
+
 
 ## Installation
 
@@ -89,3 +98,4 @@ export default class App extends Component {
 | ```decrementStepStyle``` | Object  | decrement step component style | `{ padding: 8 }`
 | ```incrementImageStyle``` | Object  | increment image component styles | `{ height: 36, width: 36 }`
 | ```decrementImageStyle``` | Object  | decrement image component styles | `{ height: 36, width: 36 }`
+
